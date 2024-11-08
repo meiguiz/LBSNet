@@ -11,6 +11,20 @@ The code has been tested under
 - Ubuntu 20.04 + NVIDIA GeForce RTX 3060 (CUDA 11.1)
 - PyTorch 1.9.0
 
+## Environment Setup
+Setup anaconda environment
+```
+$ conda create --name lbsnet python=3.8 -y
+$ conda activate lbsnet
+$ conda install pytorch torchvision -c pytorch
+$ pip install -U openmim
+$ mim install mmengine
+$ mim install "mmcv>=2.0.0"
+$ git clone -b main https://github.com/meiguiz/LBSNet.git
+$ cd LBSNet
+$ pip install -v -e .
+```
+
 ### Experiments
 
 ---
