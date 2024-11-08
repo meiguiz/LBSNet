@@ -1,4 +1,4 @@
-![图片21](https://github.com/user-attachments/assets/795cdeae-3399-4a43-a910-0669b31732cf)# LBSNet: Lightweight Joint Boundary Detection and Semantic Segmentation for Transparent and Reflective Objects
+# LBSNet: Lightweight Joint Boundary Detection and Semantic Segmentation for Transparent and Reflective Objects
 
 ## The paper is currently under review.
 
